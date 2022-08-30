@@ -1,0 +1,5 @@
+/node_modules
+/log
+secret.env
+test.js
+/DOCS/*.pdf
